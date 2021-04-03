@@ -1,0 +1,7 @@
+ls 
+pwd
+cd ..
+cd desktop
+mkdir
+git config --global user.name ""
+git config --global user.email ""
